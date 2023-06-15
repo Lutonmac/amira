@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "topic": "Article",
+      "details": "Should you be tested post covid?",
+      "profileImage": "https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+        "id": 2,
+        "topic": "Article",
+        "details": "Overeatine? Mindfullness exercise can support",
+        "profileImage": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2982&q=80"
+    },
+    {
+        "id": 3,
+        "topic": "Article",
+        "details": "Can vitamine supplement prevent health issues?",
+        "profileImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      }
+  ]
